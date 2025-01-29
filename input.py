@@ -1,5 +1,3 @@
-full_name = input('What is your full name? ')
-
-
-fav_Color = input("What is your Favourite Color? ")
-print(full_name + " Likes " + fav_Color)
+weight_in_pond = input("what is your weight? ")
+weight_in_kg = int(weight_in_pond) * 0.45
+print(weight_in_kg)
