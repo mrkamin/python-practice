@@ -1,10 +1,7 @@
-course ="Python's cours for bigners"
-print(course)
+x = (2+3) * 10 -3
+print(x)
 
-len()
-course.upper()
-course.lower()
-course.title()
-course.find()
-course.replace()
-'...' in course
+parantesis
+exponentiation 2**3
+multiplication or division
+addition or subtraction
