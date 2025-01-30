@@ -1,3 +1,10 @@
-weight_in_pond = input("what is your weight? ")
-weight_in_kg = int(weight_in_pond) * 0.45
-print(weight_in_kg)
+course ="Python's cours for bigners"
+print(course)
+
+len()
+course.upper()
+course.lower()
+course.title()
+course.find()
+course.replace()
+'...' in course
