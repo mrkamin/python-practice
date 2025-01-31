@@ -12,3 +12,17 @@ elif has_bad_credet:
 else:
     down_pyment = 0.15 *price
     print(down_pyment)
+
+
+    has_good_credet = True
+    has_hight_income= False
+    has_criminal_record = False
+
+    if has_good_credet and has_hight_income:
+        print("Eligible for loan")
+
+    if has_good_credet or has_hight_income:
+        print("Not Eligible for Loan")
+
+    if has_good_credet and not has_criminal_record:
+        print("Eligable for loan becasue don't have criminal record")
