@@ -26,3 +26,14 @@ else:
 
     if has_good_credet and not has_criminal_record:
         print("Eligable for loan becasue don't have criminal record")
+
+
+
+    name = input("Write your good name please?")
+
+    if len(name) < 3 :
+        print("Name must be at least 3 characters")
+    elif len(name) > 10:
+        print("name can be a maximum of 10 characters")
+    else:
+        print("Your Good Name is ", name)
