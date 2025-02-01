@@ -12,3 +12,8 @@ Start - to start the car
 Stop - to stop the car
 quit - to exit
         """)
+    elif command.lower() == "quit":
+        print("exit")
+        break
+    else:
+        print("I don't understand...")
