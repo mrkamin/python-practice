@@ -1,14 +1,14 @@
-from wsgiref.util import guess_scheme
+command = ""
 
-secret_num = 9
-count_num = 0
-count_limit = 3
-
-while count_num < count_limit:
-    guess = int(input('Guess? '))
-    count_num += 1
-    if guess == secret_num:
-        print('You Won!')
-        break
-else:
-    print('Sorry You Faild!')
+while command != quit:
+    command = input('>')
+    if command.lower() == "start":
+        print("Car started")
+    elif command.lower() == "stop":
+        print("Car Stoped")
+    elif command.lower() == "help":
+        print("""
+Start - to start the car
+Stop - to stop the car
+quit - to exit
+        """)
