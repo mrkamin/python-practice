@@ -293,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738557013009</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Practicing for loop statement example">
+      <option name="closed" value="true" />
+      <created>1738557930898</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1738557930898</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
