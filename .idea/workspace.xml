@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="040116ba-ede2-4247-9563-6987c1203653" name="Changes" comment="Practicing for loop statement example">
-      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+    <list default="true" id="040116ba-ede2-4247-9563-6987c1203653" name="Changes" comment="Practicing list excersize">
+      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if.executor&quot;: &quot;Run&quot;,
-    &quot;Python.input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;variable-branch&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.if.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.variable.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "variable-branch"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -316,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738558167295</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Practicing list excersize">
+      <option name="closed" value="true" />
+      <created>1738558519498</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1738558519498</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -332,6 +341,7 @@
     <MESSAGE value="Practicing if statement example" />
     <MESSAGE value="Practicing while loop statement example" />
     <MESSAGE value="Practicing for loop statement example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practicing for loop statement example" />
+    <MESSAGE value="Practicing list excersize" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practicing list excersize" />
   </component>
 </project>
