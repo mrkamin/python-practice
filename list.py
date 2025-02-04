@@ -13,3 +13,10 @@ for item in items:
 numbers = [1,2,3,4,5,6,7,10]
 for number in numbers:
     print(number)
+
+max = numbers[0]
+
+for number in numbers:
+    if max < number:
+        max = number
+print(max)
