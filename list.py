@@ -1,13 +1,9 @@
-matrix = [
-    [1,2,3],
-    [4,5,6],
-    [7,8,9]
-]
+numbers = [10, 20,20,30,40,50]
 
-for row in matrix:
-    print(row)
-    for item in row:
-        print(row)
-        print(item)
+unique = []
 
-    print(row)
+for number in numbers:
+    if number not in unique:
+        unique.append(number)
+
+print(unique)
